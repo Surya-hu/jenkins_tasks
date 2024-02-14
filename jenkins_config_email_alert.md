@@ -51,3 +51,20 @@ webpage after commiting new chnages:
 
 Email Config:
 
+1. Downloaded `Email Extension Plugin` from manage jenkins --> plugin --> avialable pugins --> Search for Email Extension Plugin.
+
+2. From manage jenkins --> system --> E-mail notification changed below settings:
+
+![image](https://github.com/Surya-hu/jenkins_tasks/assets/119995742/7e8bdce3-eb9f-4cf8-a7eb-82d7b8730cf1)
+
+![image](https://github.com/Surya-hu/jenkins_tasks/assets/119995742/05648fd2-b95d-4958-bec8-6103cbb3e1a9)
+
+3. Then went and configured two-way authentication in my gmail account
+4. Then edited Jenkins file with mail subject and to addresses.
+5. Made a push frm git repo and found the email notification as shown below.
+
+![image](https://github.com/Surya-hu/jenkins_tasks/assets/119995742/779355ca-f0f8-4681-9993-44f32da49439)
+
+
+
+
